@@ -36,3 +36,12 @@ npm install -g expo-cli
 ```sh
 npm start
 ```
+
+## Open Simulators
+
+```sh
+For iOS
+i
+For Android
+a
+```
